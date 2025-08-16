@@ -4,7 +4,7 @@ Information Security professional, pursuing a Postgraduate degree in Information
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robertosantanasilva) 
-<img src="https://tryhackme-badges.s3.amazonaws.com/.kvr.png" alt="Your Image Badge" />
+[!TryHackMe](iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3834983" style='border:none;'></iframe>)]
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
